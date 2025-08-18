@@ -2,7 +2,7 @@
 7 ui options for qb-scoreboard
 
 replace the contents of style.css with the contents of the one u want, if you get a scrollbar on your screen add this at the bottom
---------------------------------------------
+~~lua
 ::-webkit-scrollbar {
     width: 0px;
 }
@@ -13,7 +13,7 @@ replace the contents of style.css with the contents of the one u want, if you ge
 
 ::-webkit-scrollbar-track {
 }
---------------------------------------------
+~~lua
 - style-clean
 <img width="1920" height="1080" alt="FiveM® by Cfx re - Midnight Club Los Santo's 14_08_2025 07_23_30" src="https://github.com/user-attachments/assets/050d8752-9cdf-4078-953b-613fc9543682" />
 
