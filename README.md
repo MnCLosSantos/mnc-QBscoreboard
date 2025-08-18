@@ -1,7 +1,7 @@
 # mnc-QBscoreboard
 7 ui options for qb-scoreboard
 
-replace the contents of style.css with the contents of the one u want, if you get a scrollbar on your screen add this at the bottom
+replace the contents of style.css with the contents of the one u want, if you get a scrollbar on your screen add this at the bottom.
 
 ```lua
 ::-webkit-scrollbar {
